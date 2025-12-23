@@ -1,7 +1,5 @@
 # Boggle-Game-With-GUI
 
-# Boggle Game – Java Swing
-
 Overview:
   
   This project is a desktop implementation of the Boggle word game built using Java Swing.
